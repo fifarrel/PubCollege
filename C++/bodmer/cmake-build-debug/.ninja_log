@@ -1,0 +1,6 @@
+# ninja log v5
+0	507	7176234375056365	CMakeFiles/bodmer.dir/main.cpp.obj	518f8d51e60b56ad
+4	508	7176859931797763	CMakeFiles/bodmer.dir/eraser_start.cpp.obj	e1359eb8852d55a2
+19	512	7176234375056365	CMakeFiles/bodmer.dir/vowel_cons_functions.cpp.obj	51352c114d258700
+1	223	7176861386404974	build.ninja	2055fd0b13bc5dca
+509	640	7176859933076607	bodmer.exe	65af8bbf7d7837a6
